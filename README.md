@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 
 **PROJECT 1**
-# 📊 Customer Churn Analysis Dashboard
+# 📊 [Customer Churn Analysis Dashboard](https://github.com/justvictorav/justvictorav.github.io/blob/main/ecommerce%20customer%20churn%20dashboard.xlsx)
 
 ## 🔍 Project Overview
 Customer churn is a major challenge for businesses, as losing customers directly impacts revenue and growth.  
@@ -47,7 +47,7 @@ The dataset used represents e-commerce customer behaviour, including demographic
 ---
 
 ## 🖼️ Dashboard Preview
-(Insert dashboard screenshot here)
+![image](image.png)
 
 ---
 
