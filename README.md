@@ -205,7 +205,7 @@ The dataset used is the Superstore Sales dataset, containing:
 ---
 
 **PROJECT 3**
-# SQL-PROJECTS
+# SQL-PROJECT
 # Workplace Safety Incident Analysis using SQL
 
 ## Business Context
