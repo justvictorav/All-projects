@@ -410,11 +410,6 @@ The dashboard provides an interactive view of business performance between 2022 
 
 ---
 
-## 📁 Files Included
-![dashboard](dashboard.pbit)  
-
----
-
 ## 🚀 Business Value
 This dashboard enables stakeholders to:
 - Identify high-value customer segments  
