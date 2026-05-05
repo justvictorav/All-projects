@@ -57,7 +57,7 @@ This dashboard provides a clear overview of customer churn patterns and highligh
 
 
 **PROJECT 2**
-# 📊 [Sales & Profit Performance Dashboard (Superstore Analysis)](https://github.com/justvictorav/justvictorav.github.io/blob/main/Sample%20-%20Superstore.xlsx)
+# 📊 [Sales & Profit Performance Dashboard](https://github.com/justvictorav/justvictorav.github.io/blob/main/s%26t%20dashbaord.xlsx)
 
 ## 🔍 Project Overview
 This project analyses retail sales data to evaluate business performance across regions, product categories, customers, and shipping methods.  
