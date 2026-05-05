@@ -347,6 +347,10 @@ where rank=1
 
 ## Conclusion
 
-This project demonstrates the use of SQL to analyze workplace safety data and extract meaningful business insights. By applying filtering, aggregation, window functions, and conditional 
+This project demonstrates the use of SQL to analyze workplace safety data and extract meaningful business insights. By applying filtering, aggregation, window functions, and conditional logic, key patterns in incident occurrence and cost distribution were identified.
+
+The analysis highlights that incident costs vary significantly across plants and demographic groups, with certain locations consistently showing higher risk levels. High-cost incidents were successfully isolated and ranked, providing visibility into the most critical safety concerns.
+
+Overall, this project shows how SQL can be used not just for querying data, but for supporting data-driven decision-making. The insights generated can help organizations prioritize safety improvements, reduce incident costs, and enhance operational efficiency.
 
 
