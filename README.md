@@ -206,8 +206,12 @@ The dataset used is the Superstore Sales dataset, containing:
 
 **PROJECT 3**
 # SQL-PROJECT
-# Workplace Safety Incident Analysis using SQL
-**SQL CODES**
+# TITLE: Workplace Safety Incident Analysis using SQL
+**SQL CODES**[sales data](https://github.com/justvictorav/justvictorav.github.io/blob/main/sql-codes)
+
+ **Skill Used**:Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 
 ## Business Context
 A manufacturing company is experiencing increasing workplace incident costs across multiple plant locations.  
