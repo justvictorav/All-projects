@@ -207,6 +207,7 @@ The dataset used is the Superstore Sales dataset, containing:
 **PROJECT 3**
 # SQL-PROJECT
 # Workplace Safety Incident Analysis using SQL
+**SQL CODES**
 
 ## Business Context
 A manufacturing company is experiencing increasing workplace incident costs across multiple plant locations.  
